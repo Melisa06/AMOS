@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialReceive", "SerialReceive\SerialReceive.csproj", "{82477BC1-F5EE-494E-8A45-E00D31AB7C0F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DatosSerial", "DatosSerial\DatosSerial.vdproj", "{15FC1D28-151C-44FD-8DB2-3A3A9D7F924F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BunthiV1.0", "BunthiV1.0\BunthiV1.0.vdproj", "{44B1FF4C-E74B-4EE5-A764-B3FE4A9DC0B4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "bunthiV10.0", "bunthiV10.0\bunthiV10.0.vdproj", "{A9500981-D4C6-40C5-8692-09DEF818EC2D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CAJAS", "CAJAS\CAJAS.vdproj", "{6C4A6145-0610-4DE9-A209-7F8175A788AA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AMOSV1", "AMOSV1\AMOSV1.vdproj", "{11C83798-A3DD-4BE9-A4DB-E0D358CB5A3C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AMOSV1.1", "AMOSV1.1\AMOSV1.1.vdproj", "{1DE8DB52-6696-474A-B8BF-6B0D0CAF8AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82477BC1-F5EE-494E-8A45-E00D31AB7C0F}.Debug|x86.ActiveCfg = Debug|x86
+		{82477BC1-F5EE-494E-8A45-E00D31AB7C0F}.Debug|x86.Build.0 = Debug|x86
+		{82477BC1-F5EE-494E-8A45-E00D31AB7C0F}.Release|x86.ActiveCfg = Release|x86
+		{82477BC1-F5EE-494E-8A45-E00D31AB7C0F}.Release|x86.Build.0 = Release|x86
+		{15FC1D28-151C-44FD-8DB2-3A3A9D7F924F}.Debug|x86.ActiveCfg = Debug
+		{15FC1D28-151C-44FD-8DB2-3A3A9D7F924F}.Release|x86.ActiveCfg = Release
+		{44B1FF4C-E74B-4EE5-A764-B3FE4A9DC0B4}.Debug|x86.ActiveCfg = Debug
+		{44B1FF4C-E74B-4EE5-A764-B3FE4A9DC0B4}.Release|x86.ActiveCfg = Release
+		{A9500981-D4C6-40C5-8692-09DEF818EC2D}.Debug|x86.ActiveCfg = Debug
+		{A9500981-D4C6-40C5-8692-09DEF818EC2D}.Release|x86.ActiveCfg = Release
+		{6C4A6145-0610-4DE9-A209-7F8175A788AA}.Debug|x86.ActiveCfg = Debug
+		{6C4A6145-0610-4DE9-A209-7F8175A788AA}.Release|x86.ActiveCfg = Release
+		{11C83798-A3DD-4BE9-A4DB-E0D358CB5A3C}.Debug|x86.ActiveCfg = Debug
+		{11C83798-A3DD-4BE9-A4DB-E0D358CB5A3C}.Release|x86.ActiveCfg = Release
+		{1DE8DB52-6696-474A-B8BF-6B0D0CAF8AE4}.Debug|x86.ActiveCfg = Debug
+		{1DE8DB52-6696-474A-B8BF-6B0D0CAF8AE4}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
